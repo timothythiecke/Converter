@@ -3,8 +3,6 @@
 // Includes
 #include <string>
 
-// Naming convention and macros were inspired by dealing with this macro during my internship at Guerrilla Games
-
 // Standard typedefs
 typedef int			Int;
 typedef bool		Bool;
